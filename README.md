@@ -20,6 +20,8 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Data Structure](https://img.shields.io/badge/Data%20Structure-FF6347?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+
 
 ---
 
