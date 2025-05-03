@@ -21,6 +21,8 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-FF6347?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Low-Level Design](https://img.shields.io/badge/Low--Level%20Design-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![High-Level Design](https://img.shields.io/badge/High--Level%20Design-32CD32?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 
 ---
