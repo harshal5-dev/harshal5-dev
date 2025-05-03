@@ -19,7 +19,6 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -29,6 +28,12 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 ![Harshal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshal5-dev&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal5-dev&layout=compact&theme=radical)
+
+---
+
+### 📈 Currently Building
+- 🛒 An e-commerce platform using **microservice architecture**
+- 🎟️ A movie ticket booking app with **React + Spring Boot**
 
 ---
 
