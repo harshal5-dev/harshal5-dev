@@ -43,9 +43,9 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: *(coming soon)*
+- 🌐 Portfolio: [*(coming soon)*](https://harshalganbote.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/) *(add your actual link)*
-- 📧 Email: harshal@example.com *(optional)*
+- 📧 Email: harshalganbote55@gmail.com
 
 ---
 
