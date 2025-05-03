@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 - 🚀 Develop full-stack applications using **Java**, **Spring Boot**, and **React**
 - 🧠 Solve problems using **Data Structures & Algorithms**
 - 🛠️ Design backend architectures (LLD/HLD, REST APIs, Microservices)
-- 📦 Work with **PostgreSQL**, **Firebase**, **AWS S3**, and **Docker**
+- 📦 Work with **PostgreSQL**, **AWS S3**, and **Docker**
 
 ---
 
@@ -18,21 +18,20 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 `Java` `Spring Boot` `React` `JavaScript` `HTML` `CSS`
 
 **Tools & Platforms:**
-`PostgreSQL` `Firebase` `AWS S3` `Git` `GitHub` `Docker` `Maven` `Gradle`
+`PostgreSQL` `AWS S3` `Git` `GitHub` `Docker` `Maven`
 
 ---
 
 ### 📈 Currently Building
 - 🛒 An e-commerce platform using **microservice architecture**
 - 🎟️ A movie ticket booking app with **React + Spring Boot**
-- 🔐 A secure **JWT-based authentication system** with role-based access
 
 ---
 
 ### 📫 Let's Connect
-- 🌐 [Portfolio Website (coming soon)]()
+- 🌐 [[Portfolio Website (coming soon)]()](https://harshalganbote.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/) *(Add your actual profile link)*
-- 📧 harshal@example.com *(Replace with your email or remove if you prefer)*
+- 📧 harshalganbote55@gmail.com
 
 ---
 
