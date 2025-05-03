@@ -27,17 +27,17 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 
 ---
 
+### 📈 Currently Building
+- 🛒 An e-commerce platform using **microservice architecture**
+- 🎟️ A movie ticket booking app with **React + Spring Boot**
+
+---
+
 ### 📊 GitHub Stats
 
 ![Harshal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshal5-dev&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal5-dev&layout=compact&theme=radical)
-
----
-
-### 📈 Currently Building
-- 🛒 An e-commerce platform using **microservice architecture**
-- 🎟️ A movie ticket booking app with **React + Spring Boot**
 
 ---
 
