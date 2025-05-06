@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 - 🚀 Develop full-stack applications using **Java**, **Spring Boot**, and **React**
 - 🧠 Solve problems using **Data Structures & Algorithms**
 - 🛠️ Design backend architectures (LLD/HLD, REST APIs, Microservices)
-- 📦 Work with **PostgreSQL**, **Firebase**, **AWS S3**, and **Docker**
+- 📦 Work with **PostgreSQL**, **AWS S3**, and **Docker**
 
 ---
 
