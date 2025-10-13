@@ -238,7 +238,7 @@ public class HarshalGanbote extends Developer implements SystemArchitect {
 
 ### 💬 **Get In Touch**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harshal-ganbote-57bba5363/)]([in/harshal-ganbote-57bba5363](https://www.linkedin.com/in/harshal-ganbote-57bba5363/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=in/harshal-ganbote-57bba5363/)]([in/harshal-ganbote-57bba5363](in/harshal-ganbote-57bba5363/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&link=https://harshalganbote.com)](https://harshalganbote.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:harshalganbote55@gmail.com)](mailto:harshalganbote55@gmail.com)
 
