@@ -1,19 +1,60 @@
-# Hi there, I'm Harshal! 👋
-
-I'm a passionate **Full-Stack Developer** with hands-on experience building scalable web applications using **Java Spring Boot** and **React**. I love designing clean, maintainable systems with a strong foundation in **Low-Level Design (LLD)** and **High-Level Design (HLD)** principles.
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+Spring+Boot+%7C+React;System+Design+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshal%20Ganbote&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20System%20Design%20Enthusiast&descAlign=62&descAlignY=52"/>
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+coding+universe!+🚀;Full+Stack+Developer+💻;Java+Spring+Boot+%7C+React+⚡;System+Design+%26+Architecture+🏗️;Building+scalable+solutions+📈;Always+learning+%26+growing+🌱&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20&pause=1000">
+</div>
 
-- 🔭 I'm currently working on **An e-commerce platform using microservice architecture**
-- 🌱 I'm currently learning **Data Structures & System Design**
-- 👯 I'm looking to collaborate on **Full-stack web applications and system design projects**
-- 💬 Ask me about **Java Spring Boot, React, System Design, and Clean Architecture**
-- 📫 How to reach me: **harshalganbote55@gmail.com**
-- ⚡ Fun fact: **I can design both the frontend UX and the backend microservices architecture!**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+and+scalable+architecture;Turning+complex+problems+into+elegant+solutions;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+
+</div>
+
+## 🙋‍♂️ About Me
+
+> *Crafting digital experiences through elegant code and thoughtful design*
+
+I'm a **passionate Full-Stack Developer** specializing in building **scalable web applications** using modern technologies. With expertise in **Java Spring Boot** and **React**, I focus on creating robust, maintainable systems grounded in solid **System Design** principles and **Clean Architecture** patterns.
+
+## 🚀 Current Focus & Goals
+
+<div align="center">
+
+| 🎯 **Current Projects** | 🌱 **Learning Journey** | 🤝 **Open to Collaborate** |
+|-------------------------|-------------------------|---------------------------|
+| [Accessly Auth Application](https://github.com/harshal5-dev/accessly) | Data Structures & Algorithms | Full-Stack Web Applications |
+| [Trust Wave Bank Microservices](https://github.com/harshal5-dev/trust-wave-bank) | Low-Level Design (LLD) | Open Source Java Projects |
+| [Cloud Kart E-commerce Platform](https://github.com/harshal5-dev/cloud-kart) | High-Level Design (HLD) | System Design Case Studies |
+
+</div>
+
+### 🔍 Quick Facts
+
+- 🔭 **Currently Building:** Accessly auth app, Trust Wave Bank microservices & Cloud Kart e-commerce platform
+- 🌱 **Learning:** Data Structures & Algorithms, Low-Level Design (LLD), and High-Level Design (HLD)  
+- 👯 **Collaboration:** Open to full-stack projects and system design challenges
+- 💬 **Ask me about:** Java Spring Boot, React, System Design, Clean Architecture, and API Development
+- 📫 **Reach me:** [harshalganbote55@gmail.com](mailto:harshalganbote55@gmail.com)
+- ⚡ **Superpower:** Bridging the gap between elegant UI/UX and robust backend architecture!
+
+---
+
+## 💼 Professional Skills Matrix
+
+<div align="center">
+
+```text
+Backend Development     ████████████████████   80%
+Frontend Development    ███████████████████    95%
+System Design          █████████████████      85%
+Database Design        ██████████████████     90%
+API Development        ████████████████████   100%
+Microservices          ████████████████       80%
+```
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -42,99 +83,207 @@ I'm a passionate **Full-Stack Developer** with hands-on experience building scal
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-45B7D1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-96CEB4?style=for-the-badge&logo=architecture&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshal5-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal5-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="200"/>
+
+### 📈 Contribution Overview
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshal5-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal5-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+### 💻 Language Distribution & Activity
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal5-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshal5-dev&theme=tokyonight&hide_border=true" alt="Coding Activity"/>
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshal5-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal5-dev&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal5-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshal5-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
+## 🎯 Developer Profile & Architecture
 
-## 🎯 What I'm Focused On
+<div>
 
 ```java
-public class HarshalGanbote {
-    private String[] currentFocus = {
-        "Building scalable microservices with Spring Boot",
-        "Mastering System Design patterns",
-        "Creating responsive UIs with React & Redux",
-        "Implementing clean architecture principles"
-    };
+@RestController
+@CrossOrigin(origins = "https://github.com")
+public class HarshalGanbote extends Developer implements SystemArchitect {
     
-    private String[] expertise = {
-        "Full-Stack Development",
-        "RESTful API Design", 
-        "Database Design & Optimization",
-        "Low-Level & High-Level Design"
-    };
+    @Value("${developer.passion}")
+    private String passion = "Building scalable, maintainable solutions";
     
-    public void code() {
-        while (learning) {
-            design();
-            develop();
-            optimize();
-        }
+    @Autowired
+    private List<String> currentFocus = Arrays.asList(
+        "🔧 Microservices Architecture with Spring Boot",
+        "⚛️ Modern React Applications with Redux Toolkit", 
+        "🏗️ System Design & Distributed Systems",
+        "☁️ Cloud-Native Development & DevOps"
+    );
+    
+    @Override
+    public CompletableFuture<Innovation> develop() {
+        return CompletableFuture.supplyAsync(() -> {
+            while (isLearning() && isBuilding()) {
+                designSystem();
+                writeCleanCode();
+                optimizePerformance();
+                shareKnowledge();
+            }
+            return new Innovation("Scalable Solutions");
+        });
+    }
+    
+    @GetMapping("/expertise")
+    public ResponseEntity<List<String>> getExpertise() {
+        return ResponseEntity.ok(Arrays.asList(
+            "Full-Stack Development", "RESTful API Design",
+            "Database Architecture", "System Design",
+            "Clean Code Principles", "Agile Methodologies"
+        ));
     }
 }
 ```
 
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/harshal5-dev/ecommerce-microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshal5-dev&repo=ecommerce-microservices&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/harshal5-dev/react-redux-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshal5-dev&repo=react-redux-dashboard&theme=radical&hide_border=true" />
-  </a>
 </div>
 
-## 🏗️ System Design Approach
-
-- **📐 Low-Level Design:** Focus on clean code, SOLID principles, and design patterns
-- **🏛️ High-Level Design:** Scalable architecture, microservices, and distributed systems
-- **🔄 Full-Stack Integration:** Seamless connection between React frontend and Spring Boot backend
-- **📊 Data Modeling:** Efficient database design and optimization strategies
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal5-dev&theme=redical&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-## 🤝 Connect with Me
+## 🚀 Development Workflow & Best Practices
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshalganbote55@gmail.com)
+
+| **🏗️ Architecture** | **🔧 Development** | **📋 Process** | **🎯 Quality** |
+|:---:|:---:|:---:|:---:|
+| Microservices | Test-Driven Development | Agile/Scrum | Code Reviews |
+| Clean Architecture | CI/CD Pipelines | Git Flow | Performance Testing |
+| Event-Driven Design | Docker Containerization | Documentation | Security Audits |
+| API-First Approach | Monitoring & Logging | Continuous Learning | Refactoring |
 
 </div>
 
-## 💡 Random Dev Quote
+## � Featured Projects & Contributions
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+### 🌟 **Signature Projects**
+
+<a href="https://github.com/harshal5-dev/accessly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshal5-dev&repo=accessly&theme=tokyonight&hide_border=true" alt="Accessly Auth Application"/>
+</a>
+<a href="https://github.com/harshal5-dev/trust-wave-bank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshal5-dev&repo=trust-wave-bank&theme=tokyonight&hide_border=true" alt="Trust Wave Bank"/>
+</a>
+
+<a href="https://github.com/harshal5-dev/cloud-kart">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshal5-dev&repo=cloud-kart&theme=tokyonight&hide_border=true" alt="Cloud Kart E-commerce"/>
+</a>
+
+</div>
+
+### 💼 **Project Showcase**
+
+| 🎯 **Project** | 💻 **Tech Stack** | 🌟 **Highlights** | 🔗 **Links** |
+|:---|:---|:---|:---|
+| **Accessly Auth App** | Spring Boot, Spring Security, JWT | Authentication, Authorization, Secure APIs | [GitHub](https://github.com/harshal5-dev/accessly) |
+| **Trust Wave Bank** | Java, Spring Boot, Microservices | Banking System, Distributed Architecture | [GitHub](https://github.com/harshal5-dev/trust-wave-bank) |
+| **Cloud Kart E-commerce** | Spring Boot, React, PostgreSQL | Full-Stack E-commerce, Shopping Cart, Payments | [GitHub](https://github.com/harshal5-dev/cloud-kart) |
+
+
+
+## � Learning & Development Journey
+
+<div align="center">
+
+### 🏆 **Achievements & Milestones**
+
+| 🎯 **Skill** | 📊 **Proficiency** | 🏆 **Level** |
+|:---|:---|:---|
+| Java & Spring Boot | ████████████████████ 80% | Advanced |
+| React & Frontend | ███████████████████ 95% | Advanced |
+| System Design | ████████████████ 80% | Intermediate+ |
+| Database Design | ██████████████████ 90% | Advanced |
+| DevOps & Cloud | █████████████ 65% | Learning |
+
+</div>
+
+## 🌐 System Architecture Philosophy
+
+<div align="center">
+
+**🏗️ Design Principles I Live By**
+
+</div>
+
+| **🎯 Principle** | **💡 Implementation** | **🔧 Tools & Patterns** |
+|:---|:---|:---|
+| **Scalability** | Microservices, Load Balancing | Spring Cloud, Docker, Kubernetes |
+| **Maintainability** | Clean Code, SOLID Principles | Design Patterns, Code Reviews |
+| **Performance** | Caching, Database Optimization | Redis, Query Optimization |
+| **Security** | Authentication, Authorization | Spring Security, JWT, OAuth2 |
+| **Reliability** | Fault Tolerance, Monitoring | Circuit Breakers, Logging |
+
+---
+
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💬 **Get In Touch**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harshal-ganbote-57bba5363/)]([in/harshal-ganbote-57bba5363](https://www.linkedin.com/in/harshal-ganbote-57bba5363/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&link=https://harshalganbote.com)](https://harshalganbote.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:harshalganbote55@gmail.com)](mailto:harshalganbote55@gmail.com)
+
+### 🤝 **Always Open To**
+
+```yaml
+collaboration:
+  - Open Source Contributions
+  - System Design Discussions  
+  - Code Reviews & Mentoring
+  - Technical Writing
+  - Hackathons & Challenges
+
+learning_opportunities:
+  - New Technologies & Frameworks
+  - Best Practices & Patterns
+  - Industry Insights
+  - Career Growth Tips
+```
+
+</div>
+
+## � Developer Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+## 📊 Profile Analytics
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshal5-dev&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/harshal5-dev?label=Followers&style=for-the-badge&color=58a6ff" alt="GitHub Followers"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshal5-dev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
 
-<div align="center">
-  
-### Thanks for visiting! 😊
-  
-*"First, solve the problem. Then, write the code."* – John Johnson
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+### 🎯 Thanks for stopping by! Let's build something amazing together! 
+
+**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+⭐ **Don't forget to star some repositories if you find them interesting!**
 
 </div>
