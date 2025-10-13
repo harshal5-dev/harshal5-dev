@@ -220,7 +220,6 @@ public class HarshalGanbote extends Developer implements SystemArchitect {
 
 **🏗️ Design Principles I Live By**
 
-</div>
 
 | **🎯 Principle** | **💡 Implementation** | **🔧 Tools & Patterns** |
 |:---|:---|:---|
@@ -231,6 +230,7 @@ public class HarshalGanbote extends Developer implements SystemArchitect {
 | **Reliability** | Fault Tolerance, Monitoring | Circuit Breakers, Logging |
 
 ---
+</div>
 
 ## 🌐 Let's Connect & Collaborate!
 
