@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0f766e&height=210&section=header&text=Harshal%20Ganbote&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Go%20%2B%20React&descSize=19&descAlignY=56&animation=fadeIn" alt="Harshal Ganbote banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0f766e&height=210&section=header&text=Harshal%20Ganbote&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Go%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL&descSize=19&descAlignY=56&animation=fadeIn" alt="Harshal Ganbote banner" />
 
-### Building fast APIs, reliable backends, and thoughtful web experiences
+### Designing scalable systems — and shipping them end-to-end, from database to UI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://harshalganbote.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-ganbote)
@@ -13,12 +13,58 @@
 
 ## About Me
 
-I am a full-stack developer focused on building production-minded web applications with **Go**, **Gin**, **PostgreSQL**, and **React**. I enjoy designing clean REST APIs, modeling practical database systems, and connecting them to responsive user interfaces.
+I am a full-stack developer who builds production-minded web applications with **Go**, **PostgreSQL**, and **React** — and I treat **system design (HLD/LLD)** as part of the job, not a separate subject. I enjoy modeling real domains, designing clean REST APIs, and connecting them to fast, responsive interfaces.
 
-- Currently building **Nex Flow**, a multi-tenant project and task management platform.
-- Exploring backend architecture, authentication, authorization, and tenant isolation in Go.
-- Practicing data structures and algorithms while strengthening Go fundamentals.
+- Shipped **Farm Deck**, a multi-tenant farm operations SaaS — fields, hydroponic systems, daily logs, reminders, and reports.
+- Now designing **Tandav**, a background job processing system, and a third project is already in the works.
+- Practicing system design, data structures, and algorithms to keep my fundamentals sharp.
 - Open to collaborating on full-stack products, Go services, and developer tools.
+
+## Featured Projects
+
+<!-- To add Project 03 later: copy one of the blocks below, bump the number, and fill in the details. -->
+
+### 01 · Farm Deck — Multi-Tenant Farm Operations SaaS
+
+> The farm command-deck: fields, hydroponic systems, daily logs, reminders, and reports for a portfolio farm SaaS.
+
+[![Repo](https://img.shields.io/badge/Repo-farm--deck-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/harshal5-dev/farm-deck)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0f766e?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://farm-deck-client-izzchc-83a7b4-167-233-74-73.sslip.io)
+[![License](https://img.shields.io/badge/License-MIT-0f172a?style=flat-square)](https://github.com/harshal5-dev/farm-deck/blob/main/LICENSE)
+
+**Stack:** Go, PostgreSQL, React, GitHub Actions
+
+Key engineering areas:
+
+- Multi-tenant architecture — one deployment serving many farm tenants with isolated data.
+- Monorepo layout with separate `backend`, `frontend`, and `docs` spaces.
+- REST API design and PostgreSQL schema modeling for real farm operations.
+- CI pipeline with GitHub Actions and a live deployed preview; architecture documented with diagrams.
+
+### 02 · Tandav — Background Job Processing System
+
+> Named for Shiva's cosmic dance: jobs cycle through creation, execution, and completion — millions of times over, never missing a beat.
+
+[![Repo](https://img.shields.io/badge/Repo-tandav-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/harshal5-dev/tandav)
+[![Status](https://img.shields.io/badge/Status-in__active__development-f59e0b?style=flat-square)](https://github.com/harshal5-dev/tandav)
+
+Currently being designed and built in the open:
+
+- Reliable job lifecycle — enqueueing, execution, completion, and failure handling.
+- Durability and observability questions every job system has to answer.
+
+*Project 03 is underway — more soon.*
+
+## System Design
+
+I practice both sides of system design and back it with real projects:
+
+| Area | What I practice | Where to see it |
+|:---|:---|:---|
+| High-Level Design | Multi-tenancy, API layering, deployment topology, CI/CD | [farm-deck](https://github.com/harshal5-dev/farm-deck) architecture diagrams |
+| Low-Level Design | Schema modeling, RBAC, module boundaries in Go | [farm-deck](https://github.com/harshal5-dev/farm-deck) · [go-bank](https://github.com/harshal5-dev/go-bank) |
+| Background Processing | Job lifecycle, queues, reliability, retries | [tandav](https://github.com/harshal5-dev/tandav) |
+| Data Structures & Algorithms | Consistent practice with complexity analysis | [learn-go](https://github.com/harshal5-dev/learn-go) |
 
 ## Current Stack
 
@@ -43,37 +89,19 @@ I am a full-stack developer focused on building production-minded web applicatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlc](https://img.shields.io/badge/sqlc-1f2937?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## Featured Work
-
-### Nex Flow
-
-> A multi-tenant SaaS-style platform for managing organizations, users, projects, tasks, comments, permissions, and activity history.
-
-**Stack:** Go, Gin, PostgreSQL, sqlc, JWT, React, TypeScript, Tailwind CSS, shadcn/ui
-
-[![Project Docs](https://img.shields.io/badge/Project_Docs-0f172a?style=flat-square&logo=readme&logoColor=white)](https://github.com/harshal5-dev/workspace-hub)
-[![Backend API](https://img.shields.io/badge/Backend_API-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/harshal5-dev/nex-flow-api)
-[![Frontend UI](https://img.shields.io/badge/Frontend_UI-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/harshal5-dev/nex-flow-ui)
-
-Key engineering areas:
-
-- Tenant-aware data isolation and role-based access control.
-- REST API design with layered Go backend architecture.
-- PostgreSQL migrations and type-safe database access.
-- Modern React dashboard with reusable UI components.
-
-### More Projects
+## More Projects
 
 | Project | What it demonstrates | Stack |
 |:---|:---|:---|
 | [Go Bank](https://github.com/harshal5-dev/go-bank) | Banking API with authentication, validation, database access, configuration, and tests | Go, Gin, PostgreSQL, pgx, JWT/PASETO |
 | [Go Complete Guide](https://github.com/harshal5-dev/go-complete-Guide) | Hands-on Go fundamentals, concurrency, data structures, and REST API exercises | Go |
-| [Go Data Structures and Algorithms](https://github.com/harshal5-dev/go-datastructures-and-algorithm) | Consistent problem-solving practice with complexity analysis and tests | Go |
+| [Learn Go](https://github.com/harshal5-dev/learn-go) | Ongoing practice — data structures, algorithms, and language internals | Go |
 
 ## How I Build
 
@@ -86,7 +114,12 @@ type Developer struct {
 
 harshal := Developer{
 	Name:  "Harshal Ganbote",
-	Focus: []string{"Go APIs", "React applications", "PostgreSQL systems"},
+	Focus: []string{
+		"Go APIs",
+		"React applications",
+		"PostgreSQL systems",
+		"system design (HLD & LLD)",
+	},
 	Principles: []string{
 		"keep boundaries clear",
 		"design for real users",
@@ -109,7 +142,7 @@ harshal := Developer{
 
 ## Let's Connect
 
-I am interested in **Go backend development**, **full-stack applications**, **API design**, and **open-source collaboration**. The best way to reach me is through [email](mailto:harshalganbote55@gmail.com) or [LinkedIn](https://www.linkedin.com/in/harshal-ganbote).
+I am interested in **Go backend development**, **full-stack applications**, **API and system design**, and **open-source collaboration**. The best way to reach me is through [email](mailto:harshalganbote55@gmail.com) or [LinkedIn](https://www.linkedin.com/in/harshal-ganbote).
 
 <div align="center">
 
