@@ -62,9 +62,8 @@ I practice both sides of system design and back it with real projects:
 | Area | What I practice | Where to see it |
 |:---|:---|:---|
 | High-Level Design | Multi-tenancy, API layering, deployment topology, CI/CD | [farm-deck](https://github.com/harshal5-dev/farm-deck) architecture diagrams |
-| Low-Level Design | Schema modeling, RBAC, module boundaries in Go | [farm-deck](https://github.com/harshal5-dev/farm-deck) · [go-bank](https://github.com/harshal5-dev/go-bank) |
+| Low-Level Design | Schema modeling, RBAC, module boundaries in Go | [farm-deck](https://github.com/harshal5-dev/farm-deck) |
 | Background Processing | Job lifecycle, queues, reliability, retries | [tandav](https://github.com/harshal5-dev/tandav) |
-| Data Structures & Algorithms | Consistent practice with complexity analysis | [learn-go](https://github.com/harshal5-dev/learn-go) |
 
 ## Current Stack
 
@@ -99,9 +98,8 @@ I practice both sides of system design and back it with real projects:
 
 | Project | What it demonstrates | Stack |
 |:---|:---|:---|
-| [Go Bank](https://github.com/harshal5-dev/go-bank) | Banking API with authentication, validation, database access, configuration, and tests | Go, Gin, PostgreSQL, pgx, JWT/PASETO |
 | [Go Complete Guide](https://github.com/harshal5-dev/go-complete-Guide) | Hands-on Go fundamentals, concurrency, data structures, and REST API exercises | Go |
-| [Learn Go](https://github.com/harshal5-dev/learn-go) | Ongoing practice — data structures, algorithms, and language internals | Go |
+| [Learn Go](https://github.com/harshal5-dev/learn-go) | My journey learning Go — fundamentals, syntax, and hands-on practice exercises | Go |
 
 ## How I Build
 
@@ -133,10 +131,12 @@ harshal := Developer{
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshal5-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Harshal's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal5-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Harshal's most used languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshal5-dev&theme=github_dark" alt="Harshal's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshal5-dev&theme=github_dark" alt="Harshal's most used languages" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshal5-dev&theme=github-compact&hide_border=true&area=true" alt="Harshal's contribution graph" />
+<img height="170" src="https://streak-stats.demolab.com/?user=harshal5-dev&theme=github-dark&hide_border=true" alt="Harshal's GitHub streak" />
+
+<img width="95%" src="https://ghchart.rshah.org/0369a1/harshal5-dev" alt="Harshal's contribution graph" />
 
 </div>
 
